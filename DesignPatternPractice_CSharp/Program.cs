@@ -6,7 +6,7 @@ namespace DesignPatternPractice
     {
         public static void Main()
         {
-            BuilderPattern.Run();
+            DecoratorPattern.Run();
         }
     }
 }

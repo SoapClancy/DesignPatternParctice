@@ -2,3 +2,4 @@
 ./DesignPatternPractice_CSharp/bin/
 ./DesignPatternPractice_CSharp/obj/
 ./DesignPatternPractice_Python/__pycache__/
+./*.pdf
